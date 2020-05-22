@@ -1,2 +1,2 @@
-# oauth-app
+# oauth-demo
 a demo for oauth
